@@ -39,7 +39,6 @@ modules:
       - pipewire-alsa
       - pipewire-pulseaudio
       - alsa-ucm
-      - pp-uboot
       - wlr-randr
       - gnome-clocks
       - wireplumber
